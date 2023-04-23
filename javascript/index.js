@@ -43,8 +43,10 @@ function updateCity(event) {
     "A"
   )}</small></div>
     </div>
+    <a href="index.html">All cities</a>
   `;
 }
+1;
 
 updateTime();
 setInterval(updateTime, 1000);
